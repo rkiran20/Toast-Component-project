@@ -1,0 +1,15 @@
+.formLabel{
+  font-size: 1.75rem;
+  padding: 10px;
+  display: inline-block;
+
+}
+
+.formInput{
+  height: 100px;
+  width: 300px;
+}
+
+.formSpan{
+  font-size: larger;
+}
